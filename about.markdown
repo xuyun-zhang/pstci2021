@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+While CIKM2021 will be generally cover the themes of information and knowledge management, as well as recent advances on data and knowledge bases, PSTCI2021 can supplementarily provide a more focal venue for attendants to further discuss the privacy, security and trust management issues when we use scalable computing infrastructure to handle information extraction and knowledge discovery from big data.

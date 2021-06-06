@@ -8,7 +8,10 @@ layout: home
 permalink: /
 
 ---
-![banner image](https://xuyun-zhang.github.io/pstci2021/Gold-Coast.jpg)
+<!-- ![banner image](https://xuyun-zhang.github.io/pstci2021/Gold-Coast.jpg) -->
+<p align="center">
+	<img src="Gold-Coast.jpg" width="750">
+</p>
 
 <br/>
 

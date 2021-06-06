@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The 2021 International Workshop on Privacy, Security, and Trust in Computational Intelligence (PSTCI2021) 
 baseurl: "/pstci2021" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pstci2021
-github_username: pstci2021 
+# twitter_username: pstci2021
+# github_username: pstci2021 
 
 # The following items are added by Xuyun
 markdown: GFM

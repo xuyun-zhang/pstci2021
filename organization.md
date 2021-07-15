@@ -14,6 +14,8 @@ permalink: /organization/
 - Chi Yang, Huazhong University of Science and Technology, China
 ### **Publicity Chair**
 - Hongxu Chen, University of Technology Sydney, Australia
+### **Sponsorship Chair**
+- Lianyong Qi, Qufu Normal University, China
 ### **Web Chair**
 - Haolong Xiang, Macquarie University, Australia
 ### **Technical Program Committee**

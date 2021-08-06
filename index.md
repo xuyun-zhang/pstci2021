@@ -10,7 +10,7 @@ permalink: /
 ---
 <!-- ![banner image](Gold-Coast.jpg) -->
 <p align="center">
-	<img src="Gold-Coast.jpg" width="750">
+	<img src="figures/Gold-Coast.jpg" width="750">
 </p>
 
 <br/>
@@ -23,11 +23,12 @@ Welcome to the 3rd International Workshop on Privacy, Security, and Trust in Com
 
 <br/>
 
-<div style="text-align: justify"> PSTCI2021 aims at providing a forum for researchers, practitioners and developers from different background areas such as computational intelligence, data privacy and cyber security, trust management, cloud computing, edge computing, Internet of Things, big data analytics, machine learning and data mining, knowledge discovery to exchange the latest experience, research ideas and synergic research and development on fundamental issues and applications about privacy, security and trust issues in computational intelligence. This workshop invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. </div>
+<div style="text-align: justify"> PSTCI2021 aims at providing a forum for researchers, practitioners and developers from different background areas such as computational intelligence, data privacy and cyber security, trust management, cloud computing, edge computing, Internet of Things, big data analytics, machine learning and data mining, knowledge discovery to exchange the latest experience, research ideas and synergic research and development on fundamental issues and applications about privacy, security and trust issues in computational intelligence. This workshop invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. High-quality accepted papers will be recommended to the associated journal special issues. </div>
 
 <br/>
 
 <p align="center">
-	<img src="logo-frontier.svg" width="150">
-	<img src="jdsa.jpg" width="80">
+	<img src="figures/logo-frontier.svg" width="150">
+	<img src="figures/jdsa.jpg" width="80">
+	<img src="figures/coin.webp" width="100">
 </p>

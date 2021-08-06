@@ -55,6 +55,8 @@ permalink: /cfp/
 
 <br/>
 
-<div style="text-align: justify"> Accepted workshop papers will be included in a CIKM companion volume published by <a href="http://ceur-ws.org/">http://ceur-ws.org/</a>. At least one of the authors of the accepted papers must register for the workshop for the paper to be included into the workshop proceedings. The accepted papers will be invited for presentation during the workshop. High quality accepted workshop papers with significant revision and extension woudld be further recommended to special issues in the associated SCI/SCIE indexed journals (more details will be added). </div>
+<div style="text-align: justify"> Accepted workshop papers will be included in a CIKM companion volume published by <a href="http://ceur-ws.org/">http://ceur-ws.org/</a>. At least one of the authors of the accepted papers must register for the workshop for the paper to be included into the workshop proceedings. The accepted papers will be invited for presentation during the workshop. High quality accepted workshop papers with significant revision and extension woudld be further recommended to special issues in the following associated SCI/SCIE indexed journals. </div>
 
-
+- Special Issue on "Privacy, Security, and Trust in Computational Intelligence" in Computational Intelligence (Wiley, Impact Factor 2.330), [Call for Papers](https://onlinelibrary.wiley.com/pb-assets/assets/14678640/CFP_CI_special-issue_PSTCI-1628180561553.pdf)
+- Special Issue on "Collaborative Big Data Management and Analytics in Complex Systems with Edge" in Complexity (Impact Factor 2.833), [Call for Papers](https://www.hindawi.com/journals/complexity/si/149145/page/2/)
+- More to be added ...

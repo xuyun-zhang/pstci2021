@@ -23,6 +23,7 @@ permalink: /organization/
 - Luigi Catuogno, University of Salerno, Italy 
 - Xiaochun Cheng, Middlesex University, U.K. 
 - Dieter Gollmann, Hamburg University of Technology, Germany 
+- Yifeng Zheng, Harbin Institute of Technology, China
 - Saeid Hosseini, Singapore University of Technology & Design, Singapore 
 - Hadis Karimipour, University of Guelph, Canada 
 - Weizhi Meng, Technical University of Denmark, Denmark 

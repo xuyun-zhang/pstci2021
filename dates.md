@@ -4,7 +4,7 @@ title: Important Dates
 permalink: /dates/
 ---
 
-# - **Submission deadline:**	~~*Sunday 15 August 2021*~~ (Sunday 22 August 2021, extended firm)
+# - **Submission deadline:**	~~*Sunday 15 August 2021*~~ (<span style="color:red">Sunday 22 August 2021, extended firm</span>)
 # - **Notification date:**	*Monday 06 September 2021*
 # - **Camera-ready due:**	*Sunday 19 September 2021*
 # - **Event date:**	*01~05 November 2021* (TBC)

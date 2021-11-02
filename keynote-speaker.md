@@ -14,7 +14,7 @@ permalink: /invited-speaker/
 |TBA ...|
 |**Abstract**|
 |TBA ...|
-|~~~~~~~~~~~~~~~~~~|
+
 
 | [**Prof. Houbing Song**](https://faculty.erau.edu/Houbing.Song) |
 |Dr. Houbing Song received the Ph.D. degree in electrical engineering from the University of Virginia, Charlottesville, VA, in August 2012.
@@ -23,7 +23,7 @@ In August 2017, he joined the Department of Electrical Engineering and Computer 
 | Networked Systems and Security Research in the Age of AI/Machine Learning |
 |**Abstract**|
 | Networked systems have created new opportunities with major societal implications. At the same time, security has emerged as one of the most important socio-technical challenges confronting society. AI/machine learning (ML) techniques are expected to enable networked systems and enhance security. In this talk, I will present my recent research on networked systems and security in the age of AI/ML. First, I will introduce my ML-enabled Counter Unmanned Aircraft System(s) (C-UAS) technology that detects and safely neutralizes rogue drones without destroying them or causing them to crash. This research has been featured by 100+ news media outlets. Next I will present my follow-up research on real-time ML for quickest event (threat/intrusion/vulnerability…) detection. Then I will introduce my research on data-efficient ML, particularly distant domain transfer learning. |
-|~~~~~~~~~~~~~~~~~~|
+
 
 |[**Prof. Jin Li**](https://www.scholat.com/jinli71)|
 |Dr. Jin Li is currently a professor and vice dean of School of Computer Science, Guangzhou University.  He got his Ph.D degree in information security from Sun Yat-sen University at 2007. His research interests include Trust and Dependable Artificial Intelligence, Cloud computing, Blockchain. He proposed the method of secure fuzzy keyword search and reliable key management of deduplication in cloud computing. The papers and results in these topics have been widely cited and applied by researchers and industry. He served as a senior researcher and visiting professor at Korea Advanced Institute of Technology and Illinois Institute of Technology and VirginaTech, respectively. He has published more than 100 papers in international conferences and journals, including IEEE TDSC, IEEE INFOCOM, IEEE TIFS, IEEE TPDS, IEEE TC and ESORICS etc. Three papers have been selected as the best paper in the international conferences. His work has been cited more than 11000 times at Google Scholar and the H-Index is 42. He also served as program chairs/publicity chairs for many international conferences such as IEEE Blockchain 2018, ICA3PP2018, IEEE CNS 2015, IEEE CSE 2017, IEEE EUC 2017, ISICA 2015 etc. He received three National Science Foundation of China (NSFC) Grants and more than ten Grants from Guangdong Province and other departments for the research on security and privacy in new computing environments. In 2017, he received NSFC Outstanding Youth Foundation. In 2018, he was selected as a Young Changjiang River Scholar in China. He is Editor-in-Chief of International Journal of Intelligent Systems (Impact Factor 7.2, Wiley), Associate Editor of IEEE Transactions on Dependable and Secure Computing,  Information Sciences, Journal of Computer Science and Technology. |
@@ -32,7 +32,6 @@ In August 2017, he joined the Department of Electrical Engineering and Computer 
 |**Abstract**|
 |TBA|
 
-|~~~~~~~~~~|
 
 | [**Prof. Guandong Xu**](https://profiles.uts.edu.au/Guandong.Xu)|
 |Dr. Guandong Xu is an Australian Computer Society (ACS) Fellow and Professor at School of Computer Science, University of Technology Sydney, specialising in Data Science, Recommender Systems, and Social Computing. He has published 250+ papers in leading journals and conferences. He leads Smart Future Research Centre and Data Science and Machine Intelligence Lab at UTS. He is the Editor-in-Chief of Human-centric Intelligent Systems and assistant Editor-in-Chief of World Wide Web Journal and serving in editorial board or guest editors for several international journals. He has received several Awards from academia and industry, e.g., Top-10 Australian Analytics Leader Award and Australian Computer Society Disruptors Award.|

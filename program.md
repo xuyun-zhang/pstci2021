@@ -8,7 +8,7 @@ order: 1
 ### **Workshop Schedule**
 **Date: Friday 05 November 2021 (UTC+11, Gold Coast, Australia)**
 
-| <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Presenter   |
+| <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |
 |-------------------|--------------------|--------------|
 | 10:00am ~ 10:05am |       Opening      |              |
 | 10:05am ~ 11:05am |   Keynote Speech I | Prof. Zhipeng Cai  |
@@ -25,7 +25,7 @@ order: 1
 |  3:30pm ~  4:30pm | Keynote Speech IV  |  Prof. Guandong Xu |
 |  4:30pm ~  4:35pm |  5-minute  Break   |              |
 |  4:35pm ~  5:15pm |  Industry Talk II  | Mr. Tarek Shaalan|
-|  5:15pm ~  6:35pm |     Session I      |              |
+|  5:15pm ~  6:35pm |     Session II     |              |
 |                   |   Paper#16 (20 minutes) | Preetam Prabhu Srikar Dammu, Srinivasa Rao Chalamala, Ajeet Kumar Singh and Yegnanarayana Bayya |
 |                   |   Paper#22 (20 minutes) | Gaofeng Zhang, Xuehan Xia, Yu Li, Benzhu Xu and Liping Zheng |
 |                   |   Paper#10 (20 mintues) | Sabrina Mamtaz Nourin, George Karabatis and Foteini C. Argiropoulos |

@@ -23,7 +23,7 @@ We have received 21 submissions across the world this year and 8 papers have bee
 ### **Workshop Schedule**
 **Date: Friday 05 November 2021 (UTC+11, Gold Coast, Australia)**
 
-| <div style="width:200px"> Time Slot </div>    |      Activity      |  Presenter   |
+| <div style="width:150px"> Time Slot </div>    | <div style="width:200px">  Activity </div>   |  Presenter   |
 |-------------------|--------------------|--------------|
 | 10:00am ~ 10:05am |       Opening      |              |
 | 10:05am ~ 11:05am |   Keynote Speech I | Zhipeng Cai  |

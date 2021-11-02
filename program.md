@@ -24,6 +24,7 @@ We have received 21 submissions across the world this year and 8 papers have bee
 **Date: Friday 05 November 2021 (UTC+11, Gold Coast, Australia)**
 
 |     Time Slot     |      Activity      |  Presenter   |
+|-------------------|--------------------|--------------|
 | 10:00am ~ 10:05am |       Opening      |              |
 | 10:05am ~ 11:05am |   Keynote Speech I | Zhipeng Cai  |
 | 11:05am ~ 12:05pm |  Keynote Speech II | Houbing Song |

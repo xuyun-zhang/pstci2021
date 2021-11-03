@@ -26,11 +26,11 @@ permalink: /invited-speaker/
 
 | [**Prof. Jin Li**](https://www.scholat.com/jinli71) |
 |--------------------|
-|Dr. Jin Li is currently a professor and vice dean of School of Computer Science, Guangzhou University.  He got his Ph.D degree in information security from Sun Yat-sen University at 2007. His research interests include Trust and Dependable Artificial Intelligence, Cloud computing, Blockchain. He proposed the method of secure fuzzy keyword search and reliable key management of deduplication in cloud computing. The papers and results in these topics have been widely cited and applied by researchers and industry. He served as a senior researcher and visiting professor at Korea Advanced Institute of Technology and Illinois Institute of Technology and VirginaTech, respectively. He has published more than 100 papers in international conferences and journals, including IEEE TDSC, IEEE INFOCOM, IEEE TIFS, IEEE TPDS, IEEE TC and ESORICS etc. Three papers have been selected as the best paper in the international conferences. His work has been cited more than 11000 times at Google Scholar and the H-Index is 42. He also served as program chairs/publicity chairs for many international conferences such as IEEE Blockchain 2018, ICA3PP2018, IEEE CNS 2015, IEEE CSE 2017, IEEE EUC 2017, ISICA 2015 etc. He received three National Science Foundation of China (NSFC) Grants and more than ten Grants from Guangdong Province and other departments for the research on security and privacy in new computing environments. In 2017, he received NSFC Outstanding Youth Foundation. In 2018, he was selected as a Young Changjiang River Scholar in China. He is Editor-in-Chief of International Journal of Intelligent Systems (Impact Factor 7.2, Wiley), Associate Editor of IEEE Transactions on Dependable and Secure Computing,  Information Sciences, Journal of Computer Science and Technology. |
+|Dr. Jin Li is currently a professor and vice dean of School of Computer Science, Guangzhou University. He got his Ph.D degree in information security from Sun Yat-sen University at 2007. His research interests include design of secure protocols in Artificial Intelligence, Cloud Computing (secure cloud storage and outsourcing computation) and cryptographic protocols. He has published more than 100 papers in international conferences and journals, including IEEE INFOCOM, IEEE TIFS, IEEE TPDS, IEEE TOC and ESORICS etc. His work has been cited more than 11000 times at Google Scholar and the H-Index is 40. He is Editor-in-Chief of International Journal of Intelligent Systems. He also serves as Associate editor for several international journals, including IEEE Transactions on Dependable and Secure Computing, Information Sciences. |
 |**Title**|
-|TBA|
+| How to Ensure Secure Data Sharing with Blockchain in IoT |
 |**Abstract**|
-|TBA|
+| With the rapid development of IoT techniques, IoT networks constantly generate a large amount of data which contain valuable information for various industrial applications after collecting and analyzing. However, it is almost impossible to enable users to effectively contribute their data without privacy guarantees and incentive mechanisms. Such challenges seriously restrict the data sharing in IoT networks. To this end, based on the blockchain platform, we propose a data incentive mechanism to provide data privacy and fairness measures for users in IoT. Moreover, we give two different constructions of the proposed mechanism and analyze their performances on privacy protection and transaction efficiency. |
 
 
 | [**Prof. Guandong Xu**](https://profiles.uts.edu.au/Guandong.Xu) |
@@ -49,11 +49,11 @@ permalink: /invited-speaker/
 |**Title**|
 |TBA|
 |**Abstract**|
-|TBA|
+| Geospatial data is playing an increasingly vital role in today's world. At Geoscape, it is our goal to produce accurate and fresh geospatial datasets that eventually become the foundation for applications such as address verification, noise modelling, emergency service and urban planning. However, the complexity and volume of the source data always make it challenging to produce and deilver those products. This talk gives an overview on how we built a data processing pipeline on cloud to address those challenges. The platform is able to produces accurate, fresh, customer-ready geospatial data products with minimal human interventions. |
 
 | **Mr Tarek Shaalan** |
 |--------------------|
-| TBA|
+| Mr Tarek Shaalan is a Software and Cyber Security Engineer, and he has worked in the industry for more than 15 years. Currently, he is based in Sydney and works at Red Piranha. Red Piranha is an Australian organisation that develops an XDR appliance solution (Extended detection and response). He is running Sydney Security Operation center, in addition, working with an innovative team in developing Red Piranha (Crystal Eye SOC) SOAR. He is a graduate master of engineering from Federation University in 2016, and is currently a Ph.D. candidate at ICSL Lab with research topic "Trusted Learning Systems for Applications", where he targets discovering the vulnerabilities in machine learning models from a security perspective. He is also part of the Open Threat Research community (OTR), one of its targets is to empower the infosec community through open-source projects and collaboration.|
 |**Title**|
 |TBA|
 |**Abstract**|

@@ -45,9 +45,9 @@ permalink: /invited-speaker/
 ## **Industry Speaker**
 | **Dr Chang Liu** |
 |--------------------|
-| <img src="../figures/photo-liu.jpg" align="left" width="160"> TBA|
+| <img src="../figures/photo-liu.jpg" align="left" width="160"> Chang Liu is a senior software engineer at Geoscape Australia. He is a core member of the product team and in charge of developing and delivering geospatial data processing platform on AWS cloud. He received a PhD in computer science in 2015 from University of Technology Sydney and published more than 30 papers in top journals and conferences during his study. He worked as a software engineer after graduation, and he has delivered multiple critical software projects in Australian businesses.|
 |**Title**|
-|TBA|
+| Big Spatial Data Processing on Cloud - A Geoscape Story |
 |**Abstract**|
 | Geospatial data is playing an increasingly vital role in today's world. At Geoscape, it is our goal to produce accurate and fresh geospatial datasets that eventually become the foundation for applications such as address verification, noise modelling, emergency service and urban planning. However, the complexity and volume of the source data always make it challenging to produce and deilver those products. This talk gives an overview on how we built a data processing pipeline on cloud to address those challenges. The platform is able to produces accurate, fresh, customer-ready geospatial data products with minimal human interventions. |
 

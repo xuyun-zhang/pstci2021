@@ -6,7 +6,7 @@ order: 1
 ---
 
 ### **Workshop Schedule**
-**Date: Friday 05 November 2021 (UTC+11, Gold Coast, Australia)**
+**Date: Friday 05 November 2021 (UTC+11, AEDT, Australia)**
 
 | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |
 |-------------------|--------------------|--------------|

@@ -30,4 +30,5 @@ Welcome to the 3rd International Workshop on Privacy, Security, and Trust in Com
 <p align="center">
 	<img src="figures/coin.webp" width="80">
 	<img src="figures/logo-frontier.svg" width="150">
+	<img src="figures/01-data.jpg" width="80">
 </p>
